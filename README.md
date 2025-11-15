@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustinLacche
 - 👀 I’m interested in omniverse platforms that leverage renewable energy
-- 🌱 I’m currently learning how to scale smartfarming and smartsports 
+- 🌱 I’m currently am scaling smartfarming and smartsports 
 - 💞️ I’m looking to collaborate on omniverse platforms (AI + quantum + web3 + brick and mortar)
 - 📫 How to reach me: Justin.Lacche@Outlook.com | www.OmniverseSportsLeague.com | www.linkedin.com/in/justinlacche/
 
